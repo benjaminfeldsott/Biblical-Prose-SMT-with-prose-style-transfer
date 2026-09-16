@@ -1,4 +1,4 @@
-# Biblical-Prose-SMT-with-prose-style-transfer
+# Biblical Prose SMT with prose style transfer
 
 This repository contains a standalone Statistical Machine Translation (SMT) model designed to align and translate text across English and Portuguese JSON corpora. By utilizing a 10-fold cross-validation scheme and evaluating performance via BLEU-2 scores, the system optimizes a Dice-Coefficient Translation Model alongside a Bigram Language Model. Finally, this heuristic SMT pipeline is evaluated in tandem against Facebook's [NLLB-200 (Hugging Face)](https://huggingface.co "facebook/nllb-200-distilled-600M") neural model to analyze translation accuracy on unseen data.
 
