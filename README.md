@@ -4,7 +4,7 @@ This repository contains a standalone Statistical Machine Translation (SMT) mode
 
 ## Academic Influence & Methodology
 
-The foundational inspiration for this project stems from the methodology established by Keith Carlson, Allen Riddell, and Daniel Rockmore in their 2018 paper,(["Evaluating prose style transfer with the Bible"](https://doi.org/10.1098/rsos.171920)). Their research analyzed over 30 English Bible versions using the [MOSES Statistical Machine Translation Toolkit](https://github.com "moses-smt/mosesdecoder") to successfully execute unsupervised prose style transfer across different historical and stylistic vernaculars. 
+The foundational inspiration for this project stems from the methodology established by Keith Carlson, Allen Riddell, and Daniel Rockmore in their 2018 paper, ["Evaluating prose style transfer with the Bible"](https://doi.org/10.1098/rsos.171920). Their research analyzed over 30 English Bible versions using the [MOSES Statistical Machine Translation Toolkit](https://github.com "moses-smt/mosesdecoder") to successfully execute unsupervised prose style transfer across different historical and stylistic vernaculars. 
 
 Recognizing that a statistical model capable of style transfer is fundamentally manipulating parallel text mappings, this project explores whether a similar heuristic framework can be adapted for direct language-to-language translation (English $\rightarrow$ Portuguese). 
 
